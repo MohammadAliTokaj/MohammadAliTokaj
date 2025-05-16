@@ -18,7 +18,7 @@
 
 - 🌐 **Frontend (Next.js)**  
   Modern, responsive UI using Tailwind CSS and Next.js  
-  [View Project]([https://github.com/yourusername/cleaning-moving-frontend](https://github.com/GhaithBuni/viloserdet))
+  [View Project]([https://github.com/yourusername/cleaning-moving-frontend](https://github.com/GhaithBuni/viloserdet)),
   [View Project]([https://github.com/yourusername/cleaning-moving-frontend](https://github.com/MohammadAliTokaj/QSC-V1))
   
 
