@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali 
 
-<!--
-**MohammadAliTokaj/MohammadAliTokaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student graduating in **June 2025**  
+💻 Junior software developer focused on building real-world, full-stack projects  
+🛠️ Technologies: `JavaScript`, `Node.js`, `React`, `Next.js`, `Java`  
+🌍 Based in Sweden | Open to **internships and full-time roles** (remote or on-site)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I've Built
+- 🧹 **Cleaning & Moving Service App (Backend)**  
+  RESTful API with booking management, dynamic pricing, and distance-based cost calculation  
+  Tech: Node.js, Express.js, MongoDB  
+  [View Project]([https://github.com/yourusername/cleaning-moving-backend](https://github.com/GhaithBuni/viloserdet_backend))
+
+- 💻 **Admin Panel for Bookings**  
+  Custom dashboard to manage services, prices, and bookings
+
+- 🌐 **Frontend (Next.js)**  
+  Modern, responsive UI using Tailwind CSS and Next.js  
+  [View Project]([https://github.com/yourusername/cleaning-moving-frontend](https://github.com/GhaithBuni/viloserdet))
+  [View Project]([https://github.com/yourusername/cleaning-moving-frontend](https://github.com/MohammadAliTokaj/QSC-V1))
+  
+
+---
+
+
+## 📫 How to Reach Me
+- [LinkedIn](www.linkedin.com/in/mohammad-ali-tokaj-975145183)
+- 📧 muhammadtokaj@gmail.com
+
+Thanks! 🙏
