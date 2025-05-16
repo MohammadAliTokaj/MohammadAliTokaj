@@ -11,15 +11,15 @@
 - 🧹 **Cleaning & Moving Service App (Backend)**  
   RESTful API with booking management, dynamic pricing, and distance-based cost calculation  
   Tech: Node.js, Express.js, MongoDB  
-  [View Project]([https://github.com/yourusername/cleaning-moving-backend](https://github.com/GhaithBuni/viloserdet_backend))
+  [View Project](https://github.com/yourusername/cleaning-moving-backend](https://github.com/GhaithBuni/viloserdet_backend )
 
 - 💻 **Admin Panel for Bookings**  
   Custom dashboard to manage services, prices, and bookings
 
 - 🌐 **Frontend (Next.js)**  
   Modern, responsive UI using Tailwind CSS and Next.js  
-  [View Project]([https://github.com/yourusername/cleaning-moving-frontend](https://github.com/GhaithBuni/viloserdet)),
-  [View Project]([https://github.com/yourusername/cleaning-moving-frontend](https://github.com/MohammadAliTokaj/QSC-V1))
+  [View Project](https://github.com/yourusername/cleaning-moving-frontend](https://github.com/GhaithBuni/viloserdet ),
+  [View Project](https://github.com/yourusername/cleaning-moving-frontend](https://github.com/MohammadAliTokaj/QSC-V1 )
   
 
 ---
